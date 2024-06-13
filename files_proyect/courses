@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "nombre": "Matematicas",
+    "seccion": "A",
+    "fecha_inicio": "2024-01-30T18:35:25.591-06:00",
+    "fecha_fin": "2024-01-30T18:35:25.591-06:00",
+    "profesor": "Joselinne"
+  },
+  {
+    "id": 2,
+    "nombre": "Programacion 1",
+    "seccion": "A",
+    "fecha_inicio": "2024-02-01T09:00:00.000-06:00",
+    "fecha_fin": "2024-06-01T11:00:00.000-06:00",
+    "profesor": "Carlos"
+  },
+  {
+    "id": 3,
+    "nombre": "Fisica",
+    "seccion": "B",
+    "fecha_inicio": "2024-02-02T10:00:00.000-06:00",
+    "fecha_fin": "2024-06-02T12:00:00.000-06:00",
+    "profesor": "María"
+  },
+  {
+    "id": 4,
+    "nombre": "Quimica",
+    "seccion": "A",
+    "fecha_inicio": "2024-02-03T08:00:00.000-06:00",
+    "fecha_fin": "2024-06-03T10:00:00.000-06:00",
+    "profesor": "Juan"
+  },
+  {
+    "id": 5,
+    "nombre": "Biologia",
+    "seccion": "C",
+    "fecha_inicio": "2024-02-04T11:00:00.000-06:00",
+    "fecha_fin": "2024-06-04T13:00:00.000-06:00",
+    "profesor": "Ana"
+  },
+  {
+    "id": 6,
+    "nombre": "Historia",
+    "seccion": "B",
+    "fecha_inicio": "2024-02-05T07:00:00.000-06:00",
+    "fecha_fin": "2024-06-05T09:00:00.000-06:00",
+    "profesor": "Pedro"
+  },
+  {
+    "id": 7,
+    "nombre": "Geografia",
+    "seccion": "A",
+    "fecha_inicio": "2024-02-06T14:00:00.000-06:00",
+    "fecha_fin": "2024-06-06T16:00:00.000-06:00",
+    "profesor": "Lucía"
+  },
+  {
+    "id": 8,
+    "nombre": "Literatura",
+    "seccion": "C",
+    "fecha_inicio": "2024-02-07T15:00:00.000-06:00",
+    "fecha_fin": "2024-06-07T17:00:00.000-06:00",
+    "profesor": "Laura"
+  },
+  {
+    "id": 9,
+    "nombre": "Educacion Fisica",
+    "seccion": "B",
+    "fecha_inicio": "2024-02-08T13:00:00.000-06:00",
+    "fecha_fin": "2024-06-08T15:00:00.000-06:00",
+    "profesor": "Jorge"
+  },
+  {
+    "id": 10,
+    "nombre": "Arte",
+    "seccion": "A",
+    "fecha_inicio": "2024-02-09T12:00:00.000-06:00",
+    "fecha_fin": "2024-06-09T14:00:00.000-06:00",
+    "profesor": "Elena"
+  },
+  {
+    "id": 11,
+    "nombre": "Musica",
+    "seccion": "C",
+    "fecha_inicio": "2024-02-10T16:00:00.000-06:00",
+    "fecha_fin": "2024-06-10T18:00:00.000-06:00",
+    "profesor": "Manuel"
+  }
+
+]
